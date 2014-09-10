@@ -43,5 +43,14 @@ img {
     position: absolute;
     bottom: 10px;
     text-shadow: .5px .5px .5px #000;
-    
+}
+
+.information {
+    font-family: Georgie, sans-serif;
+}
+
+.titles {
+    color: grey;
+    font-size: 1rem;
+
 }
