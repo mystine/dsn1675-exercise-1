@@ -23,9 +23,25 @@ html {
 body {
   margin: 0;
   padding: 0;
+
 }
 
 img {
   display: block;
   width: 100%;
+}
+
+.top {
+    position: relative;
+    display: inline-block;
+    margin: auto;
+}
+
+.t-rex {
+    font-family: times, serif;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    text-shadow: .5px .5px .5px #000;
+    
 }
